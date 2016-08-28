@@ -1,3 +1,52 @@
+@font-face {
+  font-family: 'Dorsa';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Dorsa'), local('Dorsa-Regular'), url(../fonts/Dorsa.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Open Sans Light'), local('OpenSans-Light'), url(../fonts/OpenSans-Light.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Open Sans'), local('OpenSans'), url(../fonts/OpenSans.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Open Sans Bold'), local('OpenSans-Bold'), url(../fonts/OpenSans-Bold.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'Dosis';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Dosis Regular'), local('Dosis-Regular'), url(../fonts/Dosis-Regular.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'Dosis';
+  font-style: normal;
+  font-weight: 600;
+  src: local('Dosis SemiBold'), local('Dosis-SemiBold'), url(../fonts/Dosis-SemiBold.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'Marvel';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Marvel'), local('Marvel-Regular'), url(../fonts/marvel.woff2) format('woff2');
+}
+
 body {
   background: #f6f6f7;
   font: 14px/24px Georgia, 'Times New Roman', Times, serif;
